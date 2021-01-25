@@ -6,7 +6,7 @@ permalink: /Teaching/
 title-heading: false
 ---
 
-I taught several courses during my stay at Univresity of Southern California and Lahore University of Management Sciences. I have also conducted various workshops and trainings on using STATA. The details are as follows.
+I taught several courses during my stay at University of Southern California and Lahore University of Management Sciences. I have also conducted various workshops and trainings on using STATA. The details are as follows.
 
 <h4><strong>Lahore University of Management Sciences</strong></h4>
 1. ECON121 -- Principles of Macroeconomics 
